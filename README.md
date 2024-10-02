@@ -51,3 +51,33 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## CTF
+
+## Web hacking
+
+## Cryptography
+
+## Steganography
+
+## Reverse Engineering
+
+## Netowrks
+
+## Phreaking
+
+## Malware
+
+## Forensic
+
+## Cracking
+
+## OSINT
+
+## Privacy
+
+## Linux
+
+
+
+## Others
+
+
