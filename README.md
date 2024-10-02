@@ -15,7 +15,6 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ------
 
 ## Awesome List
-### A list of wiki
   - [Awesome Ctf](https://github.com/apsdehal/awesome-ctf)
   - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
   - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
