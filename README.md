@@ -15,18 +15,36 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ------
 
 ## Awesome List
-  - [Awesome Ctf](https://github.com/apsdehal/awesome-ctf)
-  - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-  - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
-  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
-  - [Awesome Hacking](https://github.com/jekil/awesome-hacking)
-  - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
-  - [Awesome Forensics](https://cugu.github.io/awesome-forensics/)
-  - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+  - [Awesome Security](https://github.com/sbilly/awesome-security/) - A list created by [sbilly](https://github.com/sbilly/)
+  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A list created by [bayandin](https://github.com/bayandin/)
+  - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A list created by X
+  - [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A list created by X
+  - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A list created by X
+  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A list created by X
+  - [Awesome Hacking](https://github.com/jekil/awesome-hacking) - A list created by X
+  - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A list created by X
+  - [Awesome Infosec](https://github.com/onlurking/awesome-infosec) - A list created by X
+  - [Awesome Forensics](https://cugu.github.io/awesome-forensics/) - A list created by X
+  - [Awesome Forensics](https://github.com/cugu/awesome-forensics) - A list created by X
   - [Awesome incident Response](https://github.com/meirwah/awesome-incident-response)
   - [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
   - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
   - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
   - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
   - [Awesome Netowrk](https://github.com/facyber/awesome-networking)
-  - 
+  - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
+  - [Awesome Malware Persistence](https://github.com/Karneades/awesome-malware-persistence)
+  - [Awesome Malware Development](https://github.com/rootkit-io/awesome-malware-development)
+  - [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
+  - [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+  - [Awesome Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
+  - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+  - [Awesome Lockpicking](https://github.com/fabacab/awesome-lockpicking)
+  - [Awesome Privacy](https://awesome-privacy.xyz/)
+  - [Awesome Privacy](https://github.com/josehbez/awesome-privacy)
+  - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
+  - [Awesome Windows Privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
+  - [Awesome Devsecops](https://github.com/JakobTheDev/awesome-devsecops)
+  - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+  - [Awesome Networking](https://github.com/nyquist/awesome-networking)
+  - [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
