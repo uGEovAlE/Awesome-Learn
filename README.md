@@ -32,7 +32,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
   - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
   - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
-  - [Awesome Netowrk](https://github.com/facyber/awesome-networking)
+  - [Awesome Network](https://github.com/facyber/awesome-networking)
   - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
   - [Awesome Malware Persistence](https://github.com/Karneades/awesome-malware-persistence)
   - [Awesome Malware Development](https://github.com/rootkit-io/awesome-malware-development)
@@ -76,7 +76,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Linux
 
-
+## Social Enineering
 
 ## Others
 
