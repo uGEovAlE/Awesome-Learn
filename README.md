@@ -10,22 +10,23 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 - [Awesome Learn](#awesome-learn)
   - [Awesome List](#awesome-list)
+  - [CTF](#ctf)
 
 
 ------
 
 ## Awesome List
-  - [Awesome Security](https://github.com/sbilly/awesome-security/) - A list created by [sbilly](https://github.com/sbilly/)
-  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A list created by [bayandin](https://github.com/bayandin/)
-  - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A list created by X
-  - [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A list created by X
-  - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A list created by X
-  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A list created by X
-  - [Awesome Hacking](https://github.com/jekil/awesome-hacking) - A list created by X
-  - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A list created by X
-  - [Awesome Infosec](https://github.com/onlurking/awesome-infosec) - A list created by X
-  - [Awesome Forensics](https://cugu.github.io/awesome-forensics/) - A list created by X
-  - [Awesome Forensics](https://github.com/cugu/awesome-forensics) - A list created by X
+  - [Awesome Security](https://github.com/sbilly/awesome-security/)
+  - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+  - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
+  - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+  - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+  - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+  - [Awesome Hacking](https://github.com/jekil/awesome-hacking)
+  - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+  - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
+  - [Awesome Forensics](https://cugu.github.io/awesome-forensics/)
+  - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
   - [Awesome incident Response](https://github.com/meirwah/awesome-incident-response)
   - [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
   - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
@@ -48,3 +49,5 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
   - [Awesome Networking](https://github.com/nyquist/awesome-networking)
   - [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+## CTF
