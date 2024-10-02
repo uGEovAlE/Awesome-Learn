@@ -61,6 +61,11 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Hack This Site](https://www.hackthissite.org/) One of the oldest challenge sites.
   - [Over The Wire](https://overthewire.org/wargames/) Many excellent wargames for learning linux.
   - [Pico CTF](https://picoctf.org/) Full of challenges created by a university
+  - [Crypto Hack](https://cryptohack.org/) Cryptography-oriented ctfs perfect for learning cryptography.
+  - [Game Challenge](https://github.com/mrT4ntr4/CTF-Game-Challenges) CTF of game, the bute and to hack a games.
+  - [Pwn.College](https://pwn.college/) Perfect for learning pwn.
+  - [Crackmes](https://crackmes.one/) Cracking challenges.
+  - [Lets Defend](https://letsdefend.io/) Blue team ctf.
 
   
 ## Web hacking
