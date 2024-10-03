@@ -23,6 +23,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Cracking](#cracking)
   - [Osint](#osint)
   - [Privacy](#privacy)
+  - [Linux](#linux)
   - [Social Engineering](#social-engineering)
   - [Others](#others)
 
@@ -163,7 +164,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Linux
 
-## Social Enineering
+## Social Engineering
 
 ## Others
 
