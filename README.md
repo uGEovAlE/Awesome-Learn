@@ -92,6 +92,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ## Programming
 
   - [LearnDev](https://www.learndev.info/en) - Grouping of links to learn different progrmmation languages, excellent for beginners. (Même des tutos en français)
+  - [Dev Docs]([https://devdocs.io/](https://devdocs.io/ "https://devdocs.io/")) - Documentation of many programming languages.
   - [awesome-python](https://awesome-python.com) - Curated list of awesome Python frameworks, libraries, software and resources.
   - [awesome-php](https://github.com/ziadoz/awesome-php) - Curated list of awesome php frameworks, libraries, software and resources.
   - [Learn JS](https://www.learn-js.org/) - To learn javascript.
