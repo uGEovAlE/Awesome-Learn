@@ -13,8 +13,16 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [CTF](#ctf)
   - [Networks](#networks)
   - [Programming](#programming)
+  - [Web Hacking](#web-hacking)
   - [Cryptography](#cryptography)
   - [Steganography](#steganography)
+  - [Reverse Engineering](#reverse-engineering)
+  - [Phreaking](#phreaking)
+  - [Malware](#malware)
+  - [Forensic](#forensic)
+  - [Cracking](#cracking)
+  - [Osint](#osint)
+  - [Privacy](#privacy)
 
 
 ------
@@ -107,6 +115,8 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   
   -  [France ioi](https://www.france-ioi.org/) - Une équipe passionnée qui développe des contenus gratuits pour découvrir la programmation, progresser en algorithmique et développer le goût d'apprendre et de réfléchir.
 
+## Web hacking
+
 ## Cryptography
 
   - [CryptoHack](https://cryptohack.org/) - A free, fun platform for learning modern cryptography.
@@ -136,8 +146,6 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Aperisolve](https://aperisolve.fr/cheatsheet) - CheetSheet Steganography.
 
 ## Reverse Engineering
-
-## Web hacking
 
 ## Phreaking
 
