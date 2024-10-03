@@ -150,6 +150,12 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Reverse Engineering
 
+  - [Reverse Engineering](https://beginners.re/) - "Reverse Engineering for Beginners" book.
+  - [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/) - An excellent introduction to reverse engineering.
+  - [Start Malware Analysus](https://hshrzd.wordpress.com/how-to-start/) - How to start Malware analysis.
+  - [TryHackme](https://tryhackme.com/r/room/windowsreversingintro) - A good room to get into RE.
+  - [Medium Blog](https://amhoume.medium.com/reverse-engineering-it-was-all-a-dream-c10db07e0979) - An excellent blog post on the subject.
+
 ## Phreaking
 
 ## Malware
