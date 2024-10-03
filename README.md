@@ -55,23 +55,22 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## CTF
-  - [CTF Time](https://ctftime.org/) Aggregates everyone's points.
-  - [HackTheBox](https://www.hackthebox.com/) A platform with a lot of CTF and challenges on many different subjects. 
-  - [TryHackMe](https://tryhackme.com/) Platform for beginners, perfect for getting started, with lots of CTFs .
-  - [Root-Me](https://www.root-me.org) Platforms on which there are only extremely competitive challenges, no right to writeup and leak flags.
-  - [Vulnhub](https://www.vulnhub.com/) Only CTFs to be installed locally.
-  - [Port Swigger](https://portswigger.net/web-security/all-labs) Web labs only, perfect for learning web hacking.
-  - [Hacker 101](https://ctf.hacker101.com/) CTF created by [hackerone](https://www.hackerone.com/) bugbounty platform.
-  - [Hack This Site](https://www.hackthissite.org/) One of the oldest challenge sites.
-  - [Over The Wire](https://overthewire.org/wargames/) Many excellent wargames for learning linux.
-  - [Pico CTF](https://picoctf.org/) Full of challenges created by a university
-  - [Crypto Hack](https://cryptohack.org/) Cryptography-oriented ctfs perfect for learning cryptography.
-  - [Game Challenge](https://github.com/mrT4ntr4/CTF-Game-Challenges) CTF of game, the bute and to hack a games.
-  - [Pwn.College](https://pwn.college/) Perfect for learning pwn.
-  - [Crackmes](https://crackmes.one/) Cracking challenges.
-  - [Lets Defend](https://letsdefend.io/) Blue team ctf.
+  - [CTF Time](https://ctftime.org/) - Aggregates everyone's points.
+  - [HackTheBox](https://www.hackthebox.com/) - A platform with a lot of CTF and challenges on many different subjects. 
+  - [TryHackMe](https://tryhackme.com/) - Platform for beginners, perfect for getting started, with lots of CTFs .
+  - [Root-Me](https://www.root-me.org) - Platforms on which there are only extremely competitive challenges, no right to writeup and leak flags.
+  - [Vulnhub](https://www.vulnhub.com/) - Only CTFs to be installed locally.
+  - [Port Swigger](https://portswigger.net/web-security/all-labs) - Web labs only, perfect for learning web hacking.
+  - [Hacker 101](https://ctf.hacker101.com/) - CTF created by [hackerone](https://www.hackerone.com/) bugbounty platform.
+  - [Hack This Site](https://www.hackthissite.org/) - One of the oldest challenge sites.
+  - [Over The Wire](https://overthewire.org/wargames/) - Many excellent wargames for learning linux.
+  - [Pico CTF](https://picoctf.org/) - Full of challenges created by a university.
+  - [Crypto Hack](https://cryptohack.org/) - Cryptography-oriented ctfs perfect for learning cryptography.
+  - [Game Challenge](https://github.com/mrT4ntr4/CTF-Game-Challenges) - CTF of game, the bute and to hack a games.
+  - [Pwn.College](https://pwn.college/) - Perfect for learning pwn.
+  - [Crackmes](https://crackmes.one/) - Cracking challenges.
+  - [Lets Defend](https://letsdefend.io/) - Blue team ctf.
 
-  
 ## Networks
 
 ## Programming
