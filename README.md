@@ -110,13 +110,23 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ## Cryptography
 
   - [CryptoHack](https://cryptohack.org/) - A free, fun platform for learning modern cryptography.
+  - [Cryptopals](https://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
+  - [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
   - [Dcode](https://www.dcode.fr/en) - A tool with lots of explanations on all kinds of encryption.
-  - [Cryptopals](https://cryptopals.com/) - Cryptography challenge.
-  - [No More Ransom](https://www.nomoreransom.org/en/index.html) - NEED HELP unlocking your digital life without paying your attackers.
+  - [No More Ransom](https://www.nomoreransom.org/en/index.html) - NEED HELP unlocking your digital life without paying your attackers ?
   - [CiphersByritter](http://ciphersbyritter.com/) - Excellent articles for learning cryptography.
+  - [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
+  - [CrypTool](http://www.cryptool-online.org/) - Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
+  - [Cryptography](https://www.coursera.org/learn/cryptography) - A practical oriented course in Cryptography by University of Maryland College Park.
 
-###
-  - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).    
+### Algorithms
+
+  - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).
+  - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - One of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
+  - [MD5](https://en.wikipedia.org/wiki/MD5) - Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+  - [SHA1](https://en.wikipedia.org/wiki/SHA-1) - Cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.
+  - [SHA2](https://en.wikipedia.org/wiki/SHA-2) - Set of hash functions designed by the NSA. SHA-256 and SHA-512 are novel hash functions computed with 32-bit and 64-bit words, respectively. They use different shift amounts and additive constants, but their structures are otherwise virtually identical, differing only in the number of rounds.
+  - [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
     
 ## Steganography
 
