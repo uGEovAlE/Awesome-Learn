@@ -11,6 +11,9 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 - [Awesome Learn](#awesome-learn)
   - [Awesome List](#awesome-list)
   - [CTF](#ctf)
+  - [Networks](#networks)
+  - [Cryptography](#cryptography)
+  - [Steganography](#steganography)
 
 
 ------
@@ -68,7 +71,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Lets Defend](https://letsdefend.io/) Blue team ctf.
 
   
-## Web hacking
+## Netowrks
 
 ## Cryptography
 
@@ -76,7 +79,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Reverse Engineering
 
-## Netowrks
+## Web hacking
 
 ## Phreaking
 
