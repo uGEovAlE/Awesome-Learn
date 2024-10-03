@@ -37,6 +37,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
   - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
   - [Awesome Network](https://github.com/facyber/awesome-networking)
+  - [Awesome Networking](https://github.com/nyquist/awesome-networking)
   - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
   - [Awesome Malware Persistence](https://github.com/Karneades/awesome-malware-persistence)
   - [Awesome Malware Development](https://github.com/rootkit-io/awesome-malware-development)
@@ -51,7 +52,6 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome Windows Privacy](https://github.com/TemporalAgent7/awesome-windows-privacy)
   - [Awesome Devsecops](https://github.com/JakobTheDev/awesome-devsecops)
   - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-  - [Awesome Networking](https://github.com/nyquist/awesome-networking)
   - [Awesome SelfHosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## CTF
