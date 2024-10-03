@@ -92,7 +92,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ## Programming
 
   - [LearnDev](https://www.learndev.info/en) - Grouping of links to learn different progrmmation languages, excellent for beginners. (Même des tutos en français)
-  - [Dev Docs]([https://devdocs.io/](https://devdocs.io/ "https://devdocs.io/")) - Documentation of many programming languages.
+  - [Dev Docs](https://devdocs.io/) - Documentation of many programming languages.
   - [awesome-python](https://awesome-python.com) - Curated list of awesome Python frameworks, libraries, software and resources.
   - [awesome-php](https://github.com/ziadoz/awesome-php) - Curated list of awesome php frameworks, libraries, software and resources.
   - [Learn JS](https://www.learn-js.org/) - To learn javascript.
@@ -109,6 +109,15 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Cryptography
 
+  - [CryptoHack](https://cryptohack.org/) - A free, fun platform for learning modern cryptography.
+  - [Dcode](https://www.dcode.fr/en) - A tool with lots of explanations on all kinds of encryption.
+  - [Cryptopals](https://cryptopals.com/) - Cryptography challenge.
+  - [No More Ransom](https://www.nomoreransom.org/en/index.html) - NEED HELP unlocking your digital life without paying your attackers.
+  - [CiphersByritter](http://ciphersbyritter.com/) - Excellent articles for learning cryptography.
+
+###
+  - [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).    
+    
 ## Steganography
 
 ## Reverse Engineering
