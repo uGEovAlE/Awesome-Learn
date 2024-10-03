@@ -73,6 +73,19 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Networks
 
+  - [Cisco Networking Academy Courses](https://www.netacad.com/courses/networking) - A various networking courses (Essentials, CCNA, CCNP, etc.).
+  - [Networking](https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5) - A series of YouTube tutorials about networking by Eli the Computer Guy.
+  - [Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN) - TheNewBoston Wireshark Tutorial for Beginners.
+  - [Wireshark](https://www.wireshark.org/) - The most popular free and open source network protocol analyzer.
+  - [Tshark](https://tshark.dev/) - A CLI version of Wireshark.
+  - [tcpdump](http://www.tcpdump.org/) - A powerful open source command-line packet analyzer.
+  - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner) - A network forensic tool for PCAP file analysis.
+  - [Nmap](https://nmap.org/) - A free and open source software for network discovery and security auditing.
+  - [Zenmap](https://nmap.org/zenmap/) - The official Nmap Security Scanner GUI.
+  - [Network GSM](https://www.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT "https://www.youtube.com/watch?v=iJFnYBJJiuQ&list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT") - Introduction to GSM.
+  - [OpenClassrooms Apprendre le réseaux Tcp/Ip](https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip) - Cours en français pour apprendre le réseaux tcp/ip.
+  - [https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/](https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/) - Apprendre les réseaux de zero.
+
 ## Programming
 
 ## Cryptography
