@@ -23,6 +23,8 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Cracking](#cracking)
   - [Osint](#osint)
   - [Privacy](#privacy)
+  - [Social Engineering](#social-engineering)
+  - [Others](#others)
 
 
 ------
