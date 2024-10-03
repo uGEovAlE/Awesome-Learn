@@ -71,7 +71,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Lets Defend](https://letsdefend.io/) Blue team ctf.
 
   
-## Netowrks
+## Networks
 
 ## Cryptography
 
