@@ -94,7 +94,10 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [LearnDev](https://www.learndev.info/en) - Grouping of links to learn different progrmmation languages, excellent for beginners. (Même des tutos en français)
   - [awesome-python](https://awesome-python.com) - Curated list of awesome Python frameworks, libraries, software and resources.
   - [awesome-php](https://github.com/ziadoz/awesome-php) - Curated list of awesome php frameworks, libraries, software and resources.
-  -  [Front End Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
+  - [Learn JS](https://www.learn-js.org/) - To learn javascript.
+  - [Learn SQL]([https://www.learnsqlonline.org/](https://www.learnsqlonline.org/ "https://www.learnsqlonline.org/")) - To learn sql.
+  - [Learn C]([https://www.learn-c.org/](https://www.learn-c.org/ "https://www.learn-c.org/")) - To learn C.
+  - [Front End Mentor](https://www.frontendmentor.io/) - Improve your front-end skills by building real projects. Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs
   - [CodeWars](https://www.codewars.com/) - A platform for learning programming with exercises.
   - [HackerRank](https://www.hackerrank.com/) - Another platform with programming exercises.
   - [Road Map](https://roadmap.sh/) - Developer Roadmaps.
