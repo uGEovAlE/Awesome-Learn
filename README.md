@@ -12,7 +12,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome List](#awesome-list)
   - [CTF](#ctf)
   - [Networks](#networks)
-  - [Programming)(#programming)
+  - [Programming](#programming)
   - [Cryptography](#cryptography)
   - [Steganography](#steganography)
 
