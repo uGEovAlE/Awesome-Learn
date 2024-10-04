@@ -168,7 +168,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Malware
 
-  - [Database Malware](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+  - [Malware Database](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
   - [Malware List](https://www.malshare.com/) - A huge list of malware
   - [Malware Development](https://0xpat.github.io/Malware_development_part_1/) - The first in a series of 9 articles on creating malware in C++. 
   - [Malware Development Essentials](https://systemweakness.com/malware-development-essentials-part-1-5f4626652ed9) - Become an Beginner to Intermediate in Malware Development Field !
