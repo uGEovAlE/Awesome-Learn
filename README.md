@@ -158,6 +158,14 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Phreaking
 
+  - [What is phreaking](https://en.wikipedia.org/wiki/Phreaking) 
+  - [Phreaking](https://www.youtube.com/watch?v=YawHdq4dZSU) - An intro to phreaking.
+  - [Beige Box](https://phreaking.fandom.com/wiki/Beige_Box_(Tutorial)) - A tutorial for making a beige box
+  - [Beige Box v2](https://www.instructables.com/build-a-beige-boxline-mans-handset/) - A another tutorial for making a beige box
+  - [Blue Box](https://phreaking.fandom.com/wiki/Blue_box) - What's a blue box ?
+  - [Black Box](https://phreaking.fandom.com/wiki/Black_box) - What's a black box ?
+  - [Phreaking 101](https://bluegoatcyber.com/blog/phreaking-101-the-history-and-evolution-of-hacking-telephone-networks/) - The History and Evolution of Hacking Telephone Networks.
+
 ## Malware
 
 ## Forensic
