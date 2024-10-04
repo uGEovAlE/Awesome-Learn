@@ -168,6 +168,21 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Malware
 
+  - [Database Malware](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+  - [Malware List](https://www.malshare.com/) - A huge list of malware
+  - [Malware Development](https://0xpat.github.io/Malware_development_part_1/) - The first in a series of 9 articles on creating malware in C++. 
+  - [Malware Development Essentials](https://systemweakness.com/malware-development-essentials-part-1-5f4626652ed9) - Become an Beginner to Intermediate in Malware Development Field !
+  - [Malware Development](https://networkintelligence.ai/malware-development-welcome-dark-side-part-1/) - Malware Development – Welcome to the Dark Side: Part 1
+  - [The Art of Malware](https://danusminimus.github.io/2020/03/04/The-Art-of-Malware.html) -  Master of RATs - How to create your own Tracker
+  - [RAT](https://devilinside.me/blogs/becoming-rat-your-system) - Becoming a rat in your own system
+  - [Practical Malware Analysis](https://web.archive.org/web/20211105191321/http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf) - An ebook on malware analysis.
+  - [Ransomware](https://www.hackers-arise.com/ransomware) - In this section, we will learn how ransomware works, the evolution of ransomware and build our own ransomware.
+  - [Guitmz](https://www.guitmz.com/) - An excellent malware blog with lots of articles on the subject.
+  - [Reverse Shell Generator](https://www.revshells.com/) - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode. Great for CTFs.
+  - [Crypter Bypass AV](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Write a crypter in any language to bypass AV.
+  - [Awesome Malware Persistence](https://github.com/Karneades/awesome-malware-persistence) - A curated list of awesome malware persistence tools and resources.
+  - [Interactive Online Malware Analysis Sandbox](https://app.any.run/]) - Cloud-based malware analysis service. Take your information security to the next level. Analyze suspicious and malicious activities using our innovative tools.
+
 ## Forensic
 
 ## Cracking
