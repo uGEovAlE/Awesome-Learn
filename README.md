@@ -184,6 +184,12 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Forensic
 
+  - [Forensic challenges](https://www.amanhardikar.com/mindmaps/ForensicChallenges.html) - Mindmap of forensic challenges.
+  - [Training material](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/technical-operational) - Online training material by European Union Agency for Network and Information Security for different topics (e.g. [Digital forensics](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/technical-operational#digital_forensics), [Network forensics](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/technical-operational#network_forensics))
+  - [BelkaCTF](https://belkasoft.com/ctf) - CTFs by Belkasoft.
+  - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/?type=ctf) - Blue Team CTF Challenges.
+  - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) - Awesome CTF forensic.
+
 ## Cracking
 
 ## OSINT
