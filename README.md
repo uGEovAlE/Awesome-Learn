@@ -118,6 +118,19 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   -  [France ioi](https://www.france-ioi.org/) - Une équipe passionnée qui développe des contenus gratuits pour découvrir la programmation, progresser en algorithmique et développer le goût d'apprendre et de réfléchir.
 
 ## Web hacking
+  
+  - [OWASP](https://www.owasp.org/) - Open Web Application Security Project
+  - [Pentest Standard](http://www.pentest-standard.org/) - Penetration Testing Execution Standard
+  - [App Security Wiki](https://appsecwiki.com/) - Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place.
+  - [Hacking Articles](https://www.hackingarticles.in/web-penetration-testing/) - Some very interesting articles on web hacking.
+  - [Hack Tricks](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology) - Web Vulnerabilities Methodology.
+
+### Cheat Sheet
+  
+  - [N0p](http://n0p.net/penguicon/php_app_sec/mirror/xss.html) - XSS cheatsheet
+  - [Highon Coffee](https://highon.coffee/blog/lfi-cheat-sheet/) - LFI Cheat Sheet
+  - [Highon Coffee](https://highon.coffee/blog/reverse-shell-cheat-sheet/) - Reverse Shell Cheat Sheet
+  - [Netsparker](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - SQL Injection Cheat Sheet
 
 ## Cryptography
 
