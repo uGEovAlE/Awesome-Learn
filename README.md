@@ -41,7 +41,6 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
   - [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
   - [Awesome Forensics](https://cugu.github.io/awesome-forensics/)
-  - [Awesome Forensics](https://github.com/cugu/awesome-forensics)
   - [Awesome incident Response](https://github.com/meirwah/awesome-incident-response)
   - [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
   - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing)
