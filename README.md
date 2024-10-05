@@ -9,7 +9,7 @@ Inspired by [awesome-security](https://github.com/sbilly/awesome-security/), [aw
 Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 - [Awesome Learn](#awesome-learn)
-  - [Awesome List](#awesome-list)
+  - [Awesome List](#related-awesome-lists)
   - [CTF](#ctf)
   - [Networks](#networks)
   - [Programming](#programming)
@@ -30,7 +30,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ------
 
-## Awesome List
+## Related Awesome Lists
   - [Awesome Security](https://github.com/sbilly/awesome-security/)
   - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
   - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
