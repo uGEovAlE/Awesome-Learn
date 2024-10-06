@@ -236,6 +236,19 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Privacy
 
+  - [Guide Anonymat](https://anonymousplanet.org/) - The most comprehensive guide to online anonymity I've ever read
+  - [Privay Guide](https://www.privacyguides.org/en/) - The collaborative privacy advocacy community.
+  - [Opsec 101](https://opsec101.org/) - A guide to the basics of opsec
+  - [Open Security Training](https://opensecuritytraining.info/) - OpenSecurityTraining2's mission is to provide the world's deepest and best cybersecurity training.
+  - [EFF](https://ssd.eff.org/) - Surveillance Self-Defense.
+  - [Awesome Privacy](https://awesome-privacy.xyz/) - Your guide to finding and comparing privacy-respecting alternatives to popular software and services.
+  - [Prism Break](https://prism-break.org/en/) - Help make mass surveillance of entire populations uneconomical!
+  - [Juste Delete me](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
+  - [No Where](https://blog.nowhere.moe/opsec/index.html) - OPSEC: Privacy, Anonymity and Plausible Deniability.
+  - [Am i Unique](https://amiunique.org/) - Fingerprint collecting platform.
+  - [Browser Leaks](https://browserleaks.com/) - BrowserLeaks is a suite of tools that offers a range of tests to evaluate the security and privacy of your web browser.
+  - [The Paranoid’s Bible](https://paranoidsbible.tumblr.com/library) - The Paranoid's Bible (PB) is a repository of knowledge meant to help people remove their information (Dox) from the web and people search engines.
+
 ## Linux
 
 ## Social Engineering
