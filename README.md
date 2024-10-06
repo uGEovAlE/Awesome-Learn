@@ -214,7 +214,6 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/?type=ctf) - Blue Team CTF Challenges.
   - [Forensics CTFs](https://github.com/apsdehal/awesome-ctf/blob/master/README.md#forensics) - Awesome CTF forensic.
 
-## Cracking
 
 ## OSINT
 
