@@ -219,6 +219,20 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## OSINT
 
+  - [BellingCat](https://www.bellingcat.com/) - The home of online investigations.
+  - [Oh Shint](https://ohshint.gitbook.io/oh-shint-its-a-blog) - Introduction to OSINT Web Resources. Blog.
+  - [Osint Rocks](https://osint.rocks/) - A tool that brings together no-download tools
+  - [OSINT Resources](https://github.com/sinwindie/OSINT) - Collections of tools and methods created to aid in OSINT collection
+  - [Cyber Detective's](https://cipher387.github.io/osint_stuff_tool_collection/) - Cyber Detective's OSINT tools collection.
+  - [OSINT Dojo](https://www.osintdojo.com/resources/) - General OSINT Dojo Resources.
+  - [OSINT Framework](https://osintframework.com/) - Osint framework.
+  - [Malfrats](https://map.malfrats.industries/) - Malfrat's OSINT Map.
+  - [Aware online](https://www.aware-online.com/en/) - OSINT training center.
+  - [CyberPunker](https://thecyberpunker.com/blog/osint-resources-for-pentesting/) - OSINT Resources for pentesting.
+  - [Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - The ultimate OSINT collection.
+  - [Intel Technniques](https://inteltechniques.com/index.html) - 
+  - [Trace Labs](https://www.tracelabs.org/) - We crowdsource OSINT to help find missing people.
+
 ## Privacy
 
 ## Linux
