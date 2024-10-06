@@ -171,6 +171,14 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [TryHackme](https://tryhackme.com/r/room/windowsreversingintro) - A good room to get into RE.
   - [Medium Blog](https://amhoume.medium.com/reverse-engineering-it-was-all-a-dream-c10db07e0979) - An excellent blog post on the subject.
 
+### Cracking
+
+#### [FR]
+
+  - [Les base Du Cracking](https://www.youtube.com/watch?v=uQKq7aO3Pfc) - Une excellent vidéo youtube sur les bases du cracking.
+  - [Guide Cracking](https://repo.zenk-security.com/Reversing%20.%20cracking/Deamon/DEAMON-Guide%20du%20cracking%20pour%20debutants.pdf) - Guide du cracking pour débutants pdf.
+  - [Retro Ingenierie](https://zestedesavoir.com/articles/97/introduction-a-la-retroingenierie-de-binaires/) - Introduction à la rétroingénierie de binaires.
+
 ## Phreaking
 
   - [What is phreaking](https://en.wikipedia.org/wiki/Phreaking) 
