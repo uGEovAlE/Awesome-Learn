@@ -232,6 +232,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - The ultimate OSINT collection.
   - [Intel Technniques](https://inteltechniques.com/index.html) - 
   - [Trace Labs](https://www.tracelabs.org/) - We crowdsource OSINT to help find missing people.
+  - [Cheet Sheets OSINT Haax](https://cheatsheet.haax.fr/open-source-intelligence-osint/) - Cheet Sheets Osint.
 
 ## Privacy
 
