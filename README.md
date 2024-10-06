@@ -173,6 +173,8 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ### Cracking
 
+  - [Crackmes](https://crackmes.one/) - This is a simple place where you can download crackmes.
+
 #### [FR]
 
   - [Les base Du Cracking](https://www.youtube.com/watch?v=uQKq7aO3Pfc) - Une excellent vidéo youtube sur les bases du cracking.
