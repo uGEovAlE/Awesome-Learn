@@ -249,6 +249,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Browser Leaks](https://browserleaks.com/) - BrowserLeaks is a suite of tools that offers a range of tests to evaluate the security and privacy of your web browser.
   - [The Paranoid’s Bible](https://paranoidsbible.tumblr.com/library) - The Paranoid's Bible (PB) is a repository of knowledge meant to help people remove their information (Dox) from the web and people search engines.
   - [GPG Tutorial](https://futureboy.us/pgp.html) - An introduction to how and why to use the GNU Privacy Guard encryption software (GPG) to protect your privacy.
+  - [OpsecFail](https://opsecfail.github.io/) - Example of what not to do for your Opsec.
 
 ## Linux
 
