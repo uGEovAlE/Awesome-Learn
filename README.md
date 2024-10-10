@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Web Hacking](#web-hacking)
     - [Cheat Sheets](#cheat-sheets) 
   - [Cryptography](#cryptography)
+    - [Algorithms](#algorithms) 
   - [Steganography](#steganography)
   - [Reverse Engineering](#reverse-engineering)
     - [Cracking](#cracking)
