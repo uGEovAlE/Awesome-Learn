@@ -231,7 +231,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Malfrats](https://map.malfrats.industries/) - Malfrat's OSINT Map.
   - [Aware online](https://www.aware-online.com/en/) - OSINT training center.
   - [CyberPunker](https://thecyberpunker.com/blog/osint-resources-for-pentesting/) - OSINT Resources for pentesting.
-  - [Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - The ultimate OSINT collection.
+  - [Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - The ultimate OSINT collection.s
   - [Intel Technniques](https://inteltechniques.com/index.html) - 
   - [Trace Labs](https://www.tracelabs.org/) - We crowdsource OSINT to help find missing people.
   - [Cheet Sheets OSINT Haax](https://cheatsheet.haax.fr/open-source-intelligence-osint/) - Cheet Sheets Osint.
@@ -252,6 +252,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [The Paranoid’s Bible](https://paranoidsbible.tumblr.com/library) - The Paranoid's Bible (PB) is a repository of knowledge meant to help people remove their information (Dox) from the web and people search engines.
   - [GPG Tutorial](https://futureboy.us/pgp.html) - An introduction to how and why to use the GNU Privacy Guard encryption software (GPG) to protect your privacy.
   - [OpsecFail](https://opsecfail.github.io/) - Example of what not to do for your Opsec.
+  - [KYCnotMe](https://kycnot.me/) - If you don't want to be identified, use one of their services.
 
 ## Linux
 
@@ -259,4 +260,10 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 
 ## Others
 
+  - [Send](https://send.vis.ee/) - Simple, private file sharing. ([Public Send instances](https://github.com/timvisee/send-instances))
+  - [Swiss Transfer](https://www.swisstransfer.com/en-us) - Send up to 50 GB, Created by [Infomaniak](https://www.infomaniak.com/en).
+  - [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email has been compromised in a data breach.
+  - [Emkei's Anonymous Mailer](https://emkei.cz/) - Free online fake mailer with attachments, encryption, HTML editor and advanced settings.
+  - [Fake Email](https://email-fake.com/) - Disposable Temporary Email.
+  - [Pirated Games Mega Thread](https://rentry.org/pgames) - Everything you need to know before downloading games.
 
