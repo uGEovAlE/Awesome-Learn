@@ -229,6 +229,7 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [OSINT Dojo](https://www.osintdojo.com/resources/) - General OSINT Dojo Resources.
   - [OSINT Framework](https://osintframework.com/) - Osint framework.
   - [Malfrats](https://map.malfrats.industries/) - Malfrat's OSINT Map.
+  - [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
   - [Aware online](https://www.aware-online.com/en/) - OSINT training center.
   - [CyberPunker](https://thecyberpunker.com/blog/osint-resources-for-pentesting/) - OSINT Resources for pentesting.
   - [Ultimate Osint Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - The ultimate OSINT collection.s
@@ -266,4 +267,10 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
   - [Emkei's Anonymous Mailer](https://emkei.cz/) - Free online fake mailer with attachments, encryption, HTML editor and advanced settings.
   - [Fake Email](https://email-fake.com/) - Disposable Temporary Email.
   - [Pirated Games Mega Thread](https://rentry.org/pgames) - Everything you need to know before downloading games.
+  - [HackMd](https://hackmd.io/) - Build together with Markdown.
+  - [SnusBase](https://snusbase.com/) - The longest-standing data breach search engine.
+  - [Pentester Land](https://pentester.land/writeups/) - List of bug bounty writeups.
+  - [This x does not exist](https://thisxdoesnotexist.com/) - A list of things that don't exist .
+  - [Any Run](https://any.run/) - Interactive Online Malware Sandbox.
+  - [SizeOfCat](https://sizeof.cat/links/) - A list of many interesting things.
 
