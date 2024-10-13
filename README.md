@@ -258,8 +258,9 @@ Thanks to all [contributors](https://github.com/uGEovAlE/Awesome-Learn/graphs/co
 ## Linux
 
   - [Linux Basics For Hackers ](https://github.com/HACK-MR-B/LINUX-BASICS-FOR-HACKERS/blob/main/Linux_basics_for_hackers.pdf) - Great book on hacking-oriented Linux by [Hackers Arise](https://www.hackers-arise.com/).
-  - [TryHackMe](https://tryhackme.com/room/linuxfundamentalspart1
-) - An excellent room for learning how to use Linux.
+  - [TryHackMe](https://tryhackme.com/room/linuxfundamentalspart1) - An excellent room for learning how to use Linux.
+  - [Awesome Linux](https://github.com/inputsh/awesome-linux) - A list of awesome projects and resources that make Linux even more awesome.
+  - 
 ## Social Engineering
 
 ## Others
